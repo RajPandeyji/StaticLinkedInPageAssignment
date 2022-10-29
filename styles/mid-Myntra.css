@@ -1,0 +1,115 @@
+/* ************** Myntra Heading Section ************** */
+
+.mid-container-2{
+    height: 80px;
+    position:relative;
+    top: -417px;
+    display: flex;
+    
+}
+
+.mid-container-2 > img{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 10px;
+    left: 5px;
+
+}
+.mid-container-2 > span{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.mid-container-2 > span > div > p {
+    font-size: 10px;
+    color: rgb(153, 148, 141);
+    
+}
+
+.mid-container-2 > .separator-2{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.mid-container-2 > .separator-2 > div > h2 {
+    position: relative;
+    left: 380px;
+    top: -10px;
+}
+
+/* ************** Myntra Image Section ************** */
+
+.mid-container-3{
+    height: 250px;
+    position: relative;
+    top: -345px;
+    display: flex;
+}
+
+.mid-container-3 > img{
+    width: 600px;
+    height: 264px;
+}
+
+.mid-container-3 > span{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.mid-container-3 > span > p {
+    font-size: 10px;
+    color: rgb(153, 148, 141);
+    
+}
+
+/* ************** Myntra Icon Section ************** */
+
+.mid-icon-3{
+    position: relative;
+    top: -338px;
+    border-bottom: solid 0.5px rgb(236, 213, 213);
+    background-color: white;
+    height: 25px;
+    align-items: center;
+
+}
+
+.mid-icon-3 > img {
+    margin-left: 5px;
+    margin-right: 1px;
+}
+
+.mid-icon-3 > span {
+    font-size: 12px;
+    color: rgb(153, 148, 141);
+    position: relative;
+    top: -2px;
+    left: 5px;
+}
+
+.mid-details-icon-3{
+    display: flex;
+    position: relative;
+    top: -312px;
+    align-items: center;
+    justify-content: flex-start;
+    width: 600px;
+    background-color: white;
+    height: 25px;   
+}
+
+
+.mid-details-icon-3 > div {
+    margin-right: 15px;
+    margin-left: 5px;
+}
+
+.mid-details-icon-3 > div > img {
+    width: 10px;
+    height: 10px;
+    
+}
+.mid-details-icon-3 > div > span {
+    font-size: 12px;
+    color: rgb(153, 148, 141);
+}

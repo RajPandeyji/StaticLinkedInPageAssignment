@@ -1,0 +1,102 @@
+/* ************** Yash Sharma Video Heading Section ************** */
+
+.mid-container-4{
+    height: 120px;
+    position:relative;
+    top: -15px;
+    display: flex;
+    
+}
+
+.mid-container-4 > img{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 10px;
+    left: 5px;
+
+}
+
+.mid-container-4 > span{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.mid-container-4 > span > div > p {
+    font-size: 10px;
+    color: rgb(153, 148, 141);
+    
+}
+
+.mid-container-4 > .separator-4{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.mid-container-4 > .separator-4 > div > h2 {
+    position: relative;
+    left: 380px;
+    top: -10px;
+}
+
+/*************** Yash Sharma Video Icon Section ************** */
+
+.mid-icon-4{
+    position: relative;
+    top: 378px;
+    height: 25px;
+    border-bottom:solid 0.5px rgb(236, 213, 213);
+    background-color: white;
+    height: 25px;
+}
+
+.mid-icon-4 > span {
+    font-size: 12px;
+    color: rgb(153, 148, 141);
+    position: relative;
+    top: -2px;
+    left: 5px;
+}
+
+/* ***************- Photo, Video, Event and write article icons for Yash Sharma Video - ************ */
+
+.mid-details-icon-4{
+    display: flex;
+    position: relative;
+    top: 405px;
+    align-items: center;
+    justify-content: flex-start;
+    width: 600px;
+    background-color: white;
+    height: 25px;
+    
+}
+
+.mid-details-icon-4 > div {
+    margin-right: 15px;
+    margin-left: 5px;
+}
+
+.mid-details-icon-4 > div > img {
+    width: 10px;
+    height: 10px;
+    
+}
+.mid-details-icon-4 > div > span {
+    font-size: 12px;
+    color: rgb(153, 148, 141);
+}
+
+/* ***************- Yash Sharma video description  - ************ */
+
+.mid-description{
+    position: relative;
+    top: 75px;
+    margin-left:10px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+
+/* Note- Yash Sharma video position is written in FullBody.css file  */
